@@ -1,4 +1,4 @@
-# News-Letter-SignUp-
+# News-Letter-SignUp-Page
 Signup to News Letter created using node js and express js
 
 Hey this a Sign Up page created using node and express js , the data entered is being posted to MailChimp's Server via their API
